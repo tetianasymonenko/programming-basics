@@ -1,2 +1,2 @@
 # programming-basics
-KSE 2026
+My first code
