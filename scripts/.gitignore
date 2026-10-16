@@ -1,2 +1,4 @@
 results/
 *.fasta
+python/my_script.ipynb
+seq_tools.py
